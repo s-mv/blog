@@ -4,5 +4,5 @@
 
 layout: home
 ---
-Hey, this is smv, and welcome to my blog **part-time human**!  
-To make your stay memorable, have some of my blogs. I took my time making them as delicious as possible. Munch on.
+Hey, this is smv, and welcome to my blog!  
+To make your stay memorable, have some of my blogs. I took my time making them as crunchy as possible. Munch on.
