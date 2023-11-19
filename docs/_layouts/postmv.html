@@ -1,0 +1,9 @@
+---
+layout: post
+---
+
+{{ page.content }}
+
+{% if page.comments_id %}
+{% include comments.html issue_id=page.comments_id %}
+{% endif %}

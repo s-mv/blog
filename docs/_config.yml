@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: smv's tech blog
+title: part-time human
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  still under construction
+  smv's blog
 
 domain: "s-mv.github.io"
 baseurl: "/blog" # the subpath of your site
@@ -33,6 +33,8 @@ github_username: s-mv
 remote_theme: jekyll/minima
 minima:
   skin: dark
+
+giscus_repo_id: R_kgDOKuoTvA
 
 plugins:
   - jekyll-feed

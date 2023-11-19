@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Testing!"
-date:   2023-11-17 9:42:00 +0530
-categories: tech
----
-Test post.
