@@ -1,7 +1,7 @@
 ---
 layout: postmv
 title:  "The Ideal 70-Hour Work Week - One That ISN'T Toxic"
-date:   2023-11-17 21:30:00 +0530
+date:   2023-11-20 21:30:00 +0530
 medium: https://medium.com/@the.smv/the-ideal-70-hour-work-week-one-that-isnt-toxic-27f3ac332bb8
 ---
 Recently, co-founder of Infosys Mr. Narayana Murthy commented on the Indian youth's work ethic, and at the speed of Internet Explorer I have come up with a middle-ground.
