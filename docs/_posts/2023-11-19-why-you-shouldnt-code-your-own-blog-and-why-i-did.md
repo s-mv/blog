@@ -11,7 +11,7 @@ I loved to read as a kid and of course, I knew little about technology. Those we
 
 I loved to write too, probably because I loved to read so much. I loved to make little worlds and then explore them, write about them. The first time I decided to make my own blog though, was back in *2018*. It was a pretty lame one but hey, I was 13.
 
-In some parallel universe I'm an internationally acclaimed bestseller-pumping writer with curly hair. Well, maybe not curly hair. But that doesn't matter, because I stopped blogging soon. And then I lost interest in writing for years to come...
+In some parallel universe I'm an internationally acclaimed bestseller-pumping writer with a lot of admirers and maybe even a sentient cup of coffee as my literary agent.. Well, maybe not the coffee. Not that it matters, since I stopped blogging soon after. And then I lost interest in writing for years to come…
 
 ## Why You Shouldn't Code Your Own Blog
 It was back in 2017 when I first started to learn programming. Before that I made games using [Stencyl](https://www.stencyl.com/) using a Scratch-like visual scripting language, which *just* didn't feel right... So I started to learn Python.
