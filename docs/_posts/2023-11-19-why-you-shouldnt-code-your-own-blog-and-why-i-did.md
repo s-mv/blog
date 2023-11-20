@@ -2,6 +2,7 @@
 layout: postmv
 title:  "Why You Shouldn't Code Your Own Blog (And Why I Did)"
 date:   2023-11-19 22:45:00 +0530
+medium: https://medium.com/@the.smv/why-you-shouldnt-code-your-own-blog-and-why-i-did-55ffcd55cc43
 ---
 When I was a kid I wanted to be a writer, but I became lazy instead.
 

@@ -5,4 +5,5 @@
 layout: home
 ---
 Hey, this is smv, and welcome to my blog!  
-To make your stay memorable, have some of my blogs. I took my time making them as crunchy as possible. Munch on.
+To make your stay memorable, have some of my blogs. I took my time making them as crunchy as possible. Munch on.  
+Also read my blog on [Medium](https://medium.com/@the.smv) for more support!

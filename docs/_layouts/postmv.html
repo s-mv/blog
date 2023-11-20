@@ -2,6 +2,11 @@
 layout: post
 ---
 
+{%- if page.medium -%}
+Read this blog on <a href="{{ page.medium }}" target="_blank">Medium</a>.
+<hr width="50%" />
+{%- endif -%}
+
 {{ page.content }}
 
 {% include comments.html issue_id=page.comments_id %}
