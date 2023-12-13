@@ -1,6 +1,6 @@
 ---
 layout: postmv
-title:  "I Worked For 100 Hours On My Portfolio — Then I Deleted It."
+title:  "I Spent 100 Hours On My Portfolio — Then I Deleted It."
 date:   2023-12-10 11:41:00 +0530
 medium: https://medium.com/@the.smv/i-worked-for-100-hours-on-my-portfolio-then-i-deleted-it-eb98cac3f369
 ---
