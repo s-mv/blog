@@ -53,7 +53,7 @@ At the end of the day, we're undergraduates, all three of us. Our weekend might'
 Maybe we had our priorities wrong. Maybe we would have lost either way. Who knows? But I do acknowledge that if we had handled academia ahead of time and focused on the hackathon, we could have had an F1 score that exceeds the chance of this blog going viral, at least.
 
 ## To Conclude
-We lost terribly, and I won't sugarcoat it by saying that this was a learning moment for us. We were very much lost in disappointment, tired from four days of efforts and sleepless nights — although I did cheat in that department — leading to nearly nothing in the end.
+We lost terribly, and I won't sugarcoat it by saying that this was a learning moment for us. We were very much lost in disappointment, and tired from four days of efforts and sleepless nights - although I did cheat in that department - leading to nearly nothing in the end.
 
 It is, however, something to learn from for you reading this. Budding engineers are inherently bad at management, and ambition is nothing if you cannot channel it. Ambition is also something that we have. Even the brightest mind can be derailed by a lack of focus and a misguided sense of ambition. It is just that discipline and planning, beats ambition and talent by a long shot.
 
