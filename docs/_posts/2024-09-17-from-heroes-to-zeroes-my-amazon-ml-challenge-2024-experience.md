@@ -52,6 +52,13 @@ At the end of the day, we're undergraduates, all three of us. Our weekend might'
 
 Maybe we had our priorities wrong. Maybe we would have lost either way. Who knows? But I do acknowledge that if we had handled academia ahead of time and focused on the hackathon, we could have had an F1 score that exceeds the chance of this blog going viral, at least.
 
+# 4. ...Following the rules
+You read that right. This is not exactly a valid reason but… we could've cut our losses and just used a multimodal LLM without fine-tuning it, like the team that came 15th did, according to this Linkedin post.
+
+![Blasphemy! Or not?](/blog/assets/images/linkedin-post-air-15.png)
+
+Okay, seriously. I don't even know if that's cheating. It was never clearly mentioned that using the dataset was necessary. Pretty nifty, but let's hope these guys pass further scrutiny, if any happens at all.
+
 ## To Conclude
 We lost terribly, and I won't sugarcoat it by saying that this was a learning moment for us. We were very much lost in disappointment, and tired from four days of efforts and sleepless nights - although I did cheat in that department - leading to nearly nothing in the end.
 
