@@ -10,7 +10,7 @@ It was quite an exciting day when me and my teammates [Karan Bhatia](https://www
 
 In the end, we lost terribly... Having only 1,000 outputs processed of more than 130,000 with an F1 score of just 0.00016, a number which has three more zeroes than I want to see.
 
-Our planning was impeccable, and both our methodology and code were flawless. Not to mention, we had our coffee rationed.
+Our planning was impeccable, and both our methodology and code were flawless. Not to mention, we had our coffee rationed.  
 Then where did we go wrong?
 
 (Oh boy, here we go.)
