@@ -2,13 +2,13 @@
 layout: postmv
 title:  "From Heroes to Zeroes — My Amazon ML Challenge 2024 Experience."
 date:   2024-09-17 10:45:00 +0530
-medium: https://medium.com/@the.smv/i-worked-for-100-hours-on-my-portfolio-then-i-deleted-it-eb98cac3f369
+medium: https://medium.com/@the.smv/from-heroes-to-zeroes-my-amazon-ml-challenge-2024-experience-c31e29dd7245
 ---
-Ambition is possibly the best fuel that the brain can have. But sometimes, soaring on ambition alone is dangerous. Especially if you soar too close to the sun.
+Ambition is possibly the best fuel that propels the mind. But sometimes, soaring on ambition alone is dangerous. Especially if you soar too close to the sun.
 
 It was quite an exciting day when me and my teammates [Karan Bhatia](https://www.linkedin.com/in/karan-bhatia-b4039b250/) and [Vedika Walhe](https://www.linkedin.com/in/vedika-walhe-1ab1b2287/) started to plan for the solution to be submitted for the Amazon ML Challenge this year. The challenge was simple: develop a machine learning model that can accurately *weight*, *height*, *volume* and other properties of an item, given its photo. Right away, we began planning and downloading that absolutely humongous dataset — who knew how distraught we'd be, only days later as the deadline drew close.
 
- In the end, we lost terribly... Having only 1,000 outputs processed of more than 130,000 with an F1 score of just 0.00016, a number which has three more zeroes than I want to see.
+In the end, we lost terribly... Having only 1,000 outputs processed of more than 130,000 with an F1 score of just 0.00016, a number which has three more zeroes than I want to see.
 
 Our planning was impeccable, and both our methodology and code were flawless. Not to mention, we had our coffee rationed.
 Then where did we go wrong?
