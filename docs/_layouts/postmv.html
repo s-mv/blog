@@ -1,9 +1,14 @@
 ---
 layout: post
 ---
-
-{%- if page.medium -%}
+{%-if page.medium and page.substack -%}
+Read this blog on <a href="{{ page.medium }}" target="_blank">Medium</a> or <a href="{{ page.substack }}" target="_blank">Substack</a>.
+<hr width="50%" />
+{%- elsif page.medium -%}
 Read this blog on <a href="{{ page.medium }}" target="_blank">Medium</a>.
+<hr width="50%" />
+{%- elsif page.substack -%}
+Read this blog on <a href="{{ page.substack }}" target="_blank">Substack</a>.
 <hr width="50%" />
 {%- endif -%}
 

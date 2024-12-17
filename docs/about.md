@@ -4,5 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Hello, I'm Shreerang Vaidya, better known as [smv](https://github.com/s-mv)!
-I'm currently a sophomore learning computer science at VESIT. Weclome to my blog!
+Hello, I'm Shreerang Vaidya, better known as [smv](https://github.com/s-mv)! This is my blog. Yeah, that's about it!
