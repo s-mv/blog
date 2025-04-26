@@ -2,8 +2,8 @@
 layout:   postmv
 title:    "The Last Worker Falls Asleep."
 date:     2025-04-26 21:00:00 +0530
-medium:   
-substack: 
+medium:   https://medium.com/@the.smv/the-last-worker-falls-asleep-d8f17455156d
+substack: https://open.substack.com/pub/notsmv/p/the-last-worker-falls-asleep
 ---
 ![...](/blog/assets/images/ai-hands.jpg)
 
