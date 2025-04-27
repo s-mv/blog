@@ -7,94 +7,99 @@ substack: https://open.substack.com/pub/notsmv/p/the-last-worker-falls-asleep
 ---
 ![...](/blog/assets/images/ai-hands.jpg)
 
-You wake up and gasp. You look around and the sunlight blinds you. You sigh in relief – it was all a dream. Your hands are intact. Five normal, unbent, skin-coloured fingers; none of the AI-generated crap from your nightmare.
+You look at your hands and sigh in relief – it was all a dream. Normal, unbent, skin-coloured fingers; none of the AI-generated crap from your nightmare.  
 
-You wipe the sweat off your brows and jump up to get ready. It's a bright day just like any other. You enter the kitchen.
+You wipe the sweat off your brows and jump up to get ready. It's a bright day just like any other. You enter the kitchen.  
 
-As coffee makes itself you can't help but try to shake off the feeling over your hands – tingling from the memories of the latest addition to a series of strange dreams. They always end with you looking at your hands, two eldritch horrors that resemble antlers more than anything.
+As coffee makes itself you can't help but try to shake off the feeling over your hands – tingling from the memories of the latest addition to a series of strange dreams. They always end with you looking at your hands, two eldritch horrors that resemble antlers more than anything.  
 
-Suddenly, your smart watch rings – and you do a double take. You just got laid off.
+Suddenly, your smart watch rings – and you do a double take. You had expected that this would happen sooner or later, but it startles you nonetheless. You just got laid off.  
 
-It takes a moment for your heart to stop racing, and then you just shrug. You wonder where that anxiety came from – were our ancestors really so afraid of layoffs that it has become genetically predisposed? Making a mental note to ask that to ChatGPT later, you finish your coffee and wipe your face, deciding to visit your now-former workplace to collect some of your belongings.
+It takes a moment for your heart to stop racing, and then you just shrug. You wonder where that anxiety came from – were our ancestors really so afraid of layoffs that it has become genetically predisposed? Making a mental note to ask that to ChatGPT later, you finish your coffee and wipe your face, deciding to visit your now-former workplace to collect some of your belongings.  
 
-You step out of your apartment and into the lift. The sky outside is a beautiful peach and the air is chilly. Waiting for the bus, you look around: the local coffee shop, the market, the roads, some driverless cars. It is quite empty, which leaves a hollow feeling in your stomach, despite the coffee. The perpetrator is the monolith of glass right in front of the bus stop – the Schlafzentrum.
+You wonder what you would do with your newfound free time.  
 
-You don't think about it often, but for some reason, your mind lingers on it today. How the rise of AI is the culprit behind the surprisingly empty streets and markets lately.
+You step out of your apartment and into the lift. The sky outside is a beautiful peach and the air is chilly. Waiting for the bus, you look around: the local coffee shop, the market, the roads, some driverless cars. It is quite empty, which leaves a hollow feeling in your stomach, despite the coffee. The perpetrator is the monolith of glass right in front of the bus stop – the Schlafzentrum.  
 
-As AI took over society one step at a time, the world started to need a smaller and smaller workforce to keep society running. At first, it was scary – but that was when Money existed.
+You don't think about it often, but for some reason, your mind lingers on it today. How that glass building is the culprit behind those surprisingly empty streets.  
 
-One by one, activities began to End – that is, turn from necessities to just hobbies, pastimes. The first to go was inadvertently Writing, quickly followed by the End of Cooking, as automated kitchens took over.
+As AI took over society one step at a time, the world started to need a smaller and smaller workforce to keep society running. At first, it was scary – but that was when Money still existed.  
 
-Lawyers lost their vocation to fair and unbiased AI, followed by most engineers, and finally labourers were replaced by robots. Even the oligarchs in some countries were usurped by AI; it was the end of corruption and all barbarism.
+One by one, activities began to End – that is, turn from necessities to simply hobbies, pastimes. The first to go was inadvertently Writing, quickly followed by the End of Cooking, as automated kitchens took over.  
 
-As the last activities came to an End, unemployment skyrocketed, and civil unrest followed. It wasn't until the Second Cold War that the Archaic countries came together to End Money. And with that, humanity attained true peace. Well. AI-generated peace, but true indeed.
+Lawyers lost their vocation to fair and unbiased AI, followed by most engineers, and finally labourers were replaced by robots. Even the oligarchs in some countries were usurped by AI; it was the end of corruption and all barbarism.  
 
-You've always found it strange that Money had ever existed at all – the Archaic countries must've been quite undeveloped to distribute resources so primitively. Money was the root of most problems, they say.
+As the last activities came to an End, unemployment skyrocketed, and civil unrest followed. It didn't take long for people to show their desperation to their leaders through rather violent means. The Archaic countries must've been quite undeveloped to distribute resources so primitively. Money was the root of most problems, they say.  
 
-As food factories replaced farms and humanity had a surplus of every resource imaginable – and nobody to exploit them – the only task remaining was distributing these resources across the globe which was eventually taken over by AI too.
+Some call it a revolution, when the Archaic countries came together to End Money. And just like that, humanity's collar slipped free from the chains that it had never deemed to be.  
 
-Thanks to centuries of hardwork humanity could now sit back and relax, nearly nobody having to work, out of necessity at least. Civilization was at its peak – true utopia.
+As food factories replaced farms and humanity had a surplus of every resource imaginable – and nobody to exploit them – the only task remaining was distributing these resources across the globe which was eventually taken over by AI too.  
 
-Needless to say, people started to grow restless with so much free time. Billionaires started to invest in immortality and simulated realities.
+Thanks to centuries of hard work you could now sit back and relax. Civilization was at its peak – true utopia.  
 
-It was the Germans – people from one of the Archaic countries – who tried to make life less insufferable, building huge glass buildings which offered AI-assisted cryogenic sleep to the ones who wanted to take a break from life. In most cases, that "break" stretched to the end of times, so permanent beds were made for such people.
+Needless to say, with the End of Money and the rise of AI, people started to grow restless with so much free time. Humanity started to invest its efforts researching immortality and simulated realities.  
 
-And that is how the Schlafzentrum came to be. Thanks to it, now you can just evade death forever and live in some AI-generated dream virtually forever. Most humans opt to retire and find a bed there now.
+It was the Germans – people from one of the Archaic countries – who tried to make life less insufferable, building huge glass buildings which offered AI-assisted cryogenic sleep to the ones who wanted to take a break from life. In most cases, that "break" stretched to the end of times, so permanent beds were made for such people.  
 
-You look at it from the bus window and wish it were named something more creative than "sleep center" but then again, creativity had Ended too.
+And that is how the Schlafzentrum came to be. Thanks to it, now you can just evade death forever and live in some AI-generated dream virtually forever. Most humans opt to retire and find a bed there now.  
 
-You remember having a lot more neighbours back when you were a kid. But taking the forever nap started to become more convenient than living pompously for ninety years, so here we are today. You silently wonder if you'll end up there soon.
+You look at it from the bus window and wish it were named something more creative than "sleep center" but then again, creativity had Ended too.  
 
-The trip to work is uneventful. You enter and find your cabin. Someone – or something – has organized your possessions neatly into a bag. You snap your fingers and explain a luggage cart to carry everything back to the bus stop you unboarded at. One final look at the cabin and you'd happily leave.
+You remember having a lot more neighbours back when you were a kid. But taking the forever nap started to become more convenient than living pompously for ninety years, so here we are today – more people live in cryosleep than outside it by far. You silently wonder if you too would end up there soon.  
 
-Suddenly, something shiny catches your eye – a diamond? No… It's a memory card on your table. You pick it up and look around – you're alone. You carefully place it in your pockets – you don't know why you're doing this. Not giving it much thought, you walk past the door, deciding to celebrate your unexpected layoff with some fun first.
+The trip to work is uneventful. You enter and find your cabin. The entire building is empty. Someone – or something – has organized your possessions neatly into a bag. You snap your fingers and explain a luggage cart to carry everything back to the bus stop you unboarded at. One final look at the cabin and you'd happily leave.  
 
-Instructing the luggage cart from earlier to transport your luggage back home, you decide to visit the art museum. You're somewhat of an artist yourself, writing the most vivid art prompts, but nothing like the Archaic people who drew their artwork. Their art really speaks out to you.
+Suddenly, something shiny catches your eye – a diamond? No… It's a memory card on your table. You pick it up and look around – you're definitely alone. You carefully place it in your pockets – you don't know why you're doing this. Not giving it much thought, you walk past the door, deciding to celebrate your unexpected layoff with some fun first.  
 
-After a few minutes though, you get bored. You've been here a million times. Suddenly, a strange feeling creeps up your stomach. It's inexplicable. You decide to just go home and have some lunch, not so happy anymore.
+Instructing the luggage cart from earlier to transport your luggage back home, you decide to visit the art museum. You're somewhat of an artist yourself, writing the most vivid art prompts, but nothing like the Archaic people who drew their artwork – that isn't even true art! But somehow their art really speaks out to you like nothing could.  
 
-As you board the bus you realize why you feel odd. Since morning, you've seen nobody on the roads, or on the bus. None of your ex-coworkers, not even your neighbour. Odd.
+After a few minutes you get bored. You've been here a million times on similar whims. Suddenly, a strange feeling creeps up your stomach. It's inexplicable. Something is off about today. You decide to just go home and have some lunch.  
 
-You enter your house and do the only thing that you can while food is preparing itself – have a look at the memory card. You boot your computer and plug in the card. A folder quickly opens on your computer with many files. You open the one that says "README" but it just has one line in it: _SZ-24B-2004_.
+As you board the bus you realize why you feel odd. Since morning, you've seen nobody on the roads, or on the bus. None of your ex-coworkers, not even your neighbour. Odd.  
 
-It puzzles you. That looks like the key to one of the beds at the Schlafzentrum.
+You enter your house and do the only thing that you can while food is preparing itself – have a look at the memory card. You boot your computer and plug in the card. A folder quickly opens on your computer with many files. You open the one that says "README" but it just has one line in it: _SZ-24B-2004_.  
 
-You suddenly notice that you have an unread email. You read it to yourself:
+It puzzles you. That looks like the key to one of the beds at the Schlafzentrum.  
 
-_Hello,_
-_Congratulations! You're the last person out of cryosleep_
+You suddenly notice that you have an unread email. You read it to yourself:  
 
-You stop reading right away. It's an invitation from the Schlafzenter. A rather standard procedure in any neighbourhood with only a few people not in cryosleep – but the last? The last, full stop. The email doesn't explain it much further; it's obviously AI-generated.
+> _Hello,_  
+> _Congratulations! You're the last person out of cryosleep_  
 
-Your heart races because you don't know what to do. Is everyone else asleep?
+You stop reading right away. It's an invitation from the Schlafzenter. A rather standard procedure in any neighbourhood with only a few people not in cryosleep – but the last? The last, full stop. The email doesn't explain it much further; it's obviously AI-generated.  
 
-You look outside – somehow the sun's already setting. You haven't had lunch but your appetite has died. Your coworkers just went into cryosleep that swiftly? Or were they informed about the layoffs beforehand? A hundred questions rise to your mind. What about your neighbour? The few usual pedestrians? Did something happen overnight, something that you missed?
+Your heart races because you don't know what to do. Is everyone else asleep?  
 
-You panic and look outside. The few driverless cars almost give you some hope, but you notice no passengers in them. You stay grounded but your heart sinks a little.
+You look outside – somehow the sun's already setting. You haven't had lunch but your appetite has died. Your coworkers just went into cryosleep that swiftly? Or were they informed about the layoffs beforehand? A hundred questions rise to your mind. What about your neighbour? The few usual pedestrians? Did something happen overnight, something that you missed?  
 
-You don't know what to do when your gaze suddenly falls onto the memory card. You wonder why it reached you – maybe there was a purpose. You decide to visit the Schlafzentrum to find out.
+You panic and look outside. The few driverless cars almost give you some hope, but you notice no passengers in them. You stay grounded but your heart sinks a little.  
 
-Fifteen minutes later you're at the entrance of the Schlafzentrum. For the first time in your life, you realise something uncanny: beyond your reflection on its walls, you can make out the faint outlines of the subject asleep inside. Your stomach tightens as you walk in.
+You don't know what to do when your gaze suddenly falls onto the memory card. You wonder why it reached you – maybe there was a purpose. You decide to visit the Schlafzentrum to find out.  
 
-It is quiet in the building, and much colder than outside. You're greeted by a tiny AI assistant and you order it to show you the bed that the card mentioned. As you walk past, you wonder whose bed it must be. If you're the only person awake in the entire world, maybe it's someone you're supposed to wake up? After all, it'd be a disaster if there was nobody left to wake someone up, if all of humanity went into cryosleep.
+Fifteen minutes later you're at the entrance of the Schlafzentrum. For the first time in your life, you realise something uncanny: beyond your reflection on its walls, you can make out the faint outlines of the subject asleep inside. Your stomach tightens as you walk in.  
 
-The thought of that makes you feel sick for a moment. You quietly realize that if you stopped right now, turned back, and booked a bed here for eternity, humanity would never wake up. Sweat trickles down your forehead as you slow down a little. But the AI assistant slows down too so you keep walking.
+It is quiet in the building, and much colder than outside. You're greeted by a tiny AI assistant and you order it to show you the bed that the card mentioned. As you walk past, you wonder whose bed it must be. If you're the only person awake in the entire world, maybe it's someone you're supposed to wake up? After all, it'd be a disaster if there was nobody left to wake someone up, if all of humanity went into cryosleep.  
 
-But really. If you asked the assistant to book a bed right now, it wouldn't be able to deny the decree of a human. You doubt that the assistant has enough intelligence to realize how fatal that'd be for humanity. You try to suppress your thoughts and keep walking, and it keeps getting colder. You're deep into the facility, taking turns every few steps. You don't remember where you came from anymore really. You try not to look around much because it's just people floating asleep inside their beds, peaceful expressions on their face.
+The thought of that makes you feel sick for a moment. You quietly realize that if you stopped right now, turned back, and booked a bed here for eternity, humanity would never wake up. Sweat trickles down your forehead as you slow down a little. But the AI assistant slows down too so you keep walking.  
 
-You wonder if you can spot your coworkers or your neighbours among them. You ask the AI assistant but you suddenly realise that it's not in front of you. You've been walking straight for the last five minutes.
+But really. If you asked the assistant to book a bed right now, it wouldn't be able to deny the decree of a human. You doubt that the assistant has enough intelligence to realize how fatal that'd be for humanity. You try to suppress your thoughts and keep walking, and it keeps getting colder. You're deep into the facility, taking turns every few steps. You don't remember where you came from anymore really. You try not to look around much because it's just people floating asleep inside their beds, peaceful expressions on their face.  
 
-In front of you is an empty bed. It reads: SZ-24B-2004.
+You wonder if you can spot your coworkers or your neighbours among them. You ask the AI assistant but you suddenly realise that it's not in front of you. You've been walking straight for the last five minutes.  
 
-Your heart plummets at those letters.
+In front of you is an empty bed. It reads: _SZ-24B-2004_.  
 
-It is as if your body is paralyzed when your hands move automatically. It is obvious what needs to be done. You enter the bed, and lie down.
+Your heart plummets at those letters.  
 
-It closes, and suddenly, your eyelids become too heavy to keep open. Everything goes dark.
+It is as if your body is paralyzed when your hands move automatically. It is obvious what needs to be done. You enter the bed, and lie down.  
 
-You wake up and gasp. You look around and the sunlight blinds you. You sigh in relief – it was all a dream.
+It closes, and suddenly, your eyelids become too heavy to keep open. Everything goes dark.  
 
-You wipe the sweat off your brows and jump up to get ready. Coffee starts to make itself as you get ready for work. You reach the sink and look at your face. You can't believe that it was all a dream, but you're glad. Just to be sure though, you take a look at your hands.
+You wake up and gasp. And then sigh in relief – it was all a dream.  
 
-But your fingers aren't fingers.
-What you see instead is bent, conjoined antlers.
+You wipe the sweat off your brows and jump up to get ready for work. No layoffs, and you can definitely hear your neighbour out there. You sigh at your reflection on your window and stare at the birds outside.  
+
+You really need to start sleeping less, you think. You can't believe that it was all a dream, it felt so eerie. You're just glad that it is over. To be sure though, you take a look at your hands.  
+
+But your fingers aren't fingers.  
+
+What you see instead is bent, conjoined antlers.  
