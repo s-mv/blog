@@ -66,7 +66,7 @@ You suddenly notice that you have an unread email. You read it to yourself:
 > _Hello,_  
 > _Congratulations! You're the last person out of cryosleep_  
 
-You stop reading right away. It's an invitation from the Schlafzenter. A rather standard procedure in any neighbourhood with only a few people not in cryosleep – but the last? The last, full stop. The email doesn't explain it much further; it's obviously AI-generated.  
+You stop reading right away. It's an invitation from the Schlafzentrum. A rather standard procedure in any neighbourhood with only a few people not in cryosleep – but the last? The last, full stop. The email doesn't explain it much further; it's obviously AI-generated.  
 
 Your heart races because you don't know what to do. Is everyone else asleep?  
 
