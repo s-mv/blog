@@ -6,7 +6,7 @@ medium: https://medium.com/@the.smv/from-heroes-to-zeroes-my-amazon-ml-challenge
 ---
 Ambition is possibly the best fuel that propels the mind. But sometimes, soaring on ambition alone is dangerous. Especially if you soar too close to the sun.
 
-It was quite an exciting day when me and my teammates [Karan Bhatia](https://www.linkedin.com/in/karan-bhatia-b4039b250/) and [Vedika Walhe](https://www.linkedin.com/in/vedika-walhe-1ab1b2287/) started to plan for the solution to be submitted for the Amazon ML Challenge this year. The challenge was simple: develop a machine learning model that can accurately *weight*, *height*, *volume* and other properties of an item, given its photo. Right away, we began planning and downloading that absolutely humongous dataset — who knew how distraught we'd be, only days later as the deadline drew close.
+It was quite an exciting day when me and my teammates [Karan Bhatia](https://www.linkedin.com/in/karan-bhatia-b4039b250/) and [Vedika Walhe](https://www.linkedin.com/in/vedika-walhe-1ab1b2287/) started to plan for the solution to be submitted for the Amazon ML Challenge this year. The challenge was simple: develop a machine learning model that can accurately extract the *weight*, *height*, *volume* and other properties of an item, given its photo. Right away, we began planning and downloading that absolutely humongous dataset — who knew how distraught we'd be, only days later as the deadline drew close.
 
 In the end, we lost terribly... Having only 1,000 outputs processed of more than 130,000 with an F1 score of just 0.00016, a number which has three more zeroes than I want to see.
 
@@ -48,7 +48,7 @@ But that is only half of the reason. The blame is on us too. We could've used pr
 At the end, this was our fault. A planning fallacy.
 
 ## 3. Priorities
-At the end of the day, we're undergraduates, all three of us. Our weekend might've been busy with the hackathon but that would not stop the academic machinery of our colleges from absolutely devouring us as submissions, assignments and project work filled our plates. Due to the same, the flames of our ambitions were quickly quenched by a rain of deadlines. To be brash about it, we half-assed this.
+At the end of the day, we're undergraduates, all three of us. Our weekend might've been busy with the hackathon but that would not stop the academic machinery of our colleges from absolutely devouring us, as submissions, assignments and project work filled our plates. Due to the same, the flames of our ambitions were quickly quenched by a rain of deadlines. To be brash about it, we half-assed this.
 
 Maybe we had our priorities wrong. Maybe we would have lost either way. Who knows? But I do acknowledge that if we had handled academia ahead of time and focused on the hackathon, we could have had an F1 score that exceeds the chance of this blog going viral, at least.
 
