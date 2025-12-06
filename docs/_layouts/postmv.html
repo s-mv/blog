@@ -12,6 +12,9 @@ Read this blog on <a href="{{ page.substack }}" target="_blank">Substack</a>.
 <hr width="50%" />
 {%- endif -%}
 
-{{ page.content }}
+<div style="text-align: justify; text-justify: inter-word;">
+  {{ page.content }}
+</div>
 
 {% include comments.html issue_id=page.comments_id %}
+

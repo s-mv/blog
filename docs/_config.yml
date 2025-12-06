@@ -40,6 +40,13 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
+kramdown:
+  # input: GFM
+  # smart_quotes: lsquo,rsquo,ldquo,rdquo
+  typographic_symbols:
+    ndash: "–"
+    mdash: "—"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -59,3 +66,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+

@@ -7,3 +7,4 @@ layout: home
 Hey, this is smv, and welcome to my blog!  
 Also read my blog on [Medium](https://medium.com/@the.smv) and
 [Substack](https://thesmv.substack.com/) for more support!
+
