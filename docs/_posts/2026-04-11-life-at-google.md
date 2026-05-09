@@ -1,6 +1,8 @@
 ---
 date: "2026-05-09 17:00:00 +0530"
 layout: postmv
+medium: "https://medium.com/@the.smv/life-google-1baec8f6dfbd"
+substack: "https://notsmv.substack.com/p/life-google"
 title: life @ google
 ---
 
