@@ -205,4 +205,3 @@ though, you take a look at your hands.
 But your fingers aren't fingers.
 
 What you see instead is bent, conjoined antlers.
-

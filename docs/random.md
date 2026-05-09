@@ -7,7 +7,6 @@ title: Test!
 <!-- medium:
 substack: -->
 
-Test post!
-
-[research paper](http://dx.doi.org/10.1021/ac9016049)
+a man is walking to a bar. then suddenly he realizes that he is not really
+walking.
 

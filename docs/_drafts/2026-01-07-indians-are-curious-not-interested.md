@@ -1,13 +1,9 @@
 ---
 date: "2023-11-17 9:42:00 +0530"
 layout: postmv
-title: Test!
+title: Indians are curious, not interested.
 ---
 
 <!-- medium:
 substack: -->
-
-Test post!
-
-[research paper](http://dx.doi.org/10.1021/ac9016049)
 

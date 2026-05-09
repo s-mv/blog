@@ -6,8 +6,3 @@ title: Test!
 
 <!-- medium:
 substack: -->
-
-Test post!
-
-[research paper](http://dx.doi.org/10.1021/ac9016049)
-
