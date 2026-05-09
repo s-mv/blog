@@ -118,26 +118,47 @@ Suddenly the laptop blurted out:
 
 Dr. Ed sounded like... a woman. Huh.
 
-Paul read my confused look and closed the lid. "I know exactly what's going on.
-I should've figured it out weeks ago." He took a pause and poured himself some
+"Can I ask you something?" I said. Paul looked up from the monitor. "This is
+just Claude, isn't it?"
+
+He read my confused look and closed the lid. "I know exactly what's going on. I
+should've figured it out weeks ago." He took a pause and poured himself some
 water. "So you didn't read the code of conduct." I felt my face flush a little.
 "Who even reads things these days, right?"
 
-I got back to my desk after that. My head was spinning but everything made
-sense.
+I was a little mad now because I just wanted to talk to Dr. Ed.
 
-Turns out that Dr. Ed Luca is not a man after all. He's not even a person. "Ed
-Luca" is, by now you must've guessed, an anagram of "Claude" or rather the
-Claude research cluster.
+"But what about Dr. Ed?" I asked, calmly.
+
+"What about... You just talked to him?" Paul said. I had never felt stupider.
+
+I got back to my desk after that and read the code of conduct. Whoever wrote it
+should be in jail, but I digress. My head was spinning -- suddenly everything
+made sense.
+
+I started noticing it everywhere after that.
+
+Dr. Ed, after all, isn't a man. He isn't even a person. As per the code of
+conduct: 'All research leads at Google DeepMind are assisted by or instantiated
+as large language model clusters. Interaction with research leads is subject to
+the AI usage policy.'
+
+"Ed Luca" is, by now you must've guessed, an anagram. I wasn't so quick to
+notice.
 
 I spent the week discovering more.
 
-Apparently, over the past few months, nearly all research done in big tech is
-led by ML "experts" but they're all just LLMs. Ed? A clanker. Most researchers
-you've heard of? They're just using clankers. Andrew Ng? Is a model. I know. I
-wonder who else isn't real...
+Apparently, nearly all research done in big tech is led by ML 'experts' but
+they're all just LLMs. Internal model clusters generate experiments, benchmark
+them, reason about current approaches, and try to optimize them -- everything
+done a hundred times faster. Every single researcher that we know is simply a
+data entry guy. Honestly, that's kind of nice. I hate thinking.
 
-Needless to say I was called in for a review soon after that.
+So yeah. Ed? A clanker. Most researchers you've heard of? They're just using
+clankers. Andrew Ng? Is a model. I know. I wonder who else isn't real...
+
+Needless to say I was called in for a review soon after my conversation with
+Paul.
 
 As of today, I have been laid off from Google for underutilizing their research
 infrastructure. I did sign a non-disclosure agreement about the LLM usage, but
