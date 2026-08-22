@@ -1,5 +1,5 @@
 ---
-date: "2026-08-22 11:25 +0530"
+date: "2026-08-23 00:50 +0530"
 layout: postmv
 title: MS @ IITB Q&A
 ---
@@ -32,7 +32,7 @@ differences that I can think of.
 | Dimension                     | Mtech (TA) | MS (TA)     | MS (RAP)                    |
 | ----------------------------- | ---------- | ----------- | --------------------------- |
 | Programme duration            | 2 years    | 1.5-3 years | 3 years                     |
-| Number of electives           | 9          | 5           |                             |
+| Number of electives           | 9          | 5           | 5                           |
 | Focus on research             | existent   | yes         | focuses on research project |
 | Placement opportunities       | ???        | ???         | ???                         |
 | Further reseach opportunities | good       | excellent   | excellent                   |
@@ -57,7 +57,7 @@ for very different reasons than the one you might think of. (In fact, if you
 want a job, doing a master's is somewhat redundant with some exceptions.)
 Anyway, I digress.
 
-You **will** end up with great placements if you're doing an MS @ IITB. The only
+You **can** end up with great placements if you're doing an MS @ IITB. The
 condition is that you must be sincere and rigorous. The good thing about the
 programme is that you might end up doing what you like even after your thesis
 wherever you get to go. Another good thing about the MS programme is that if
