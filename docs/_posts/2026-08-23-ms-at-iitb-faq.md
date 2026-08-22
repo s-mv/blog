@@ -57,12 +57,14 @@ for very different reasons than the one you might think of. (In fact, if you
 want a job, doing a master's is somewhat redundant with some exceptions.)
 Anyway, I digress.
 
-You **can** end up with great placements if you're doing an MS @ IITB. The
-condition is that you must be sincere and rigorous. The good thing about the
-programme is that you might end up doing what you like even after your thesis
-wherever you get to go. Another good thing about the MS programme is that if
-your guide allows you, you can do an internship. I've been told that that is a
-gateway to a lot of free coffee and even a fulfilling job.
+You **can** end up with great placements if you're doing an MS @ IITB. However
+it is fundamentally a research degree, so the condition is that you must be
+sincere and rigorous. The good thing about the programme is that you might end
+up doing what you like even after your thesis wherever you get to go. Another
+good thing about the MS programme is that if your guide allows you, you can do
+an internship. I've been told that that is a gateway to a lot of free coffee and
+even a fulfilling job. However, if you're not research-oriented, you might face
+obstacles. You might even find the programme frustrating.
 
 **Unsolicited advice time:** If you're planning to go for a master's at all, try
 to find out what professors you might want to work with during it beforehand. It
