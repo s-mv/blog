@@ -1,7 +1,7 @@
 ---
 date: "2026-08-22 10:00 +0530"
 layout: postmv
-title: MS @ IITB Q&A
+title: MS @ IITB FAQ
 ---
 
 Over the past few weeks, a lot of people have asked me a plethora of questions
